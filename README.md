@@ -35,7 +35,7 @@ Taplytics is a simple, elegant, and modern typing test application built with Ne
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/unloopedmido/taplytics.git
+   git clone https://github.com/nonlooped/taplytics.git
    cd taplytics
    ```
 
